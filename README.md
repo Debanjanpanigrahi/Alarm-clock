@@ -1,4 +1,3 @@
-g
 # AlarmClock
 
 <li>This is a repository for Alarm Clock Developed using HTML, CSS, Vanilla JavaScript.</li>
@@ -40,7 +39,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 # Git Clone
 To use this repository in your local system-
 
-<a href="https://github.com/Debanjanpanigrahi/AlarmClock" target="_blank">https://github.com/Debanjanpanigrahi/AlarmClock </a>
+<a href="https://github.com/Debanjanpanigrahi/Alarm-clock" target="_blank">https://github.com/Debanjanpanigrahi/Alarm-clock </a>
 
 or run this command in your GitHub CLI
 
@@ -49,6 +48,6 @@ or run this command in your GitHub CLI
 
 
 
-# <a href = "https://pranjalagrawal1.github.io/AlarmClock" target="_blank"> Demo / Hosted on - </a>
-https://pranjalagrawal1.github.io/AlarmClock/
+# <a href = "https://debanjanpanigrahi.github.io/Alarm-clock/" target="_blank"> Demo / Hosted on - </a>
+https://debanjanpanigrahi.github.io/Alarm-clock/
 
