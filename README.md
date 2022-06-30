@@ -43,7 +43,7 @@ To use this repository in your local system-
 
 or run this command in your GitHub CLI
 
-###### `gh repo clone Debanjanpanigrahi/AlarmClock`
+###### `gh repo clone Debanjanpanigrahi/Alarm-clock`
 <br>
 
 
